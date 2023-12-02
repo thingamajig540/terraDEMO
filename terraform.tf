@@ -7,3 +7,4 @@ terraform {
       name = "learn-terraform-cloud"
     }
   }
+}
